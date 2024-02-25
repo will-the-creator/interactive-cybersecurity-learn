@@ -1,5 +1,5 @@
 body {
-    font-family: poppins;
+    font-family: Poppins sans-serif;
     margin: 0;
     padding: 0;
   }
@@ -36,12 +36,12 @@ body {
     display: inline-block;
     padding: 10px 20px;
     border: none;
-    background-color: #333;
+    background-color: #39ff14;
     color: white;
     cursor: pointer;
-    text-decoration: none; /* Remove default link underline */
-    /* Add more styles as needed */
-    font-size: 16px;
+    text-decoration: none; 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
     border-radius: 5px;
   }
   
