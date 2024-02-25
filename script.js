@@ -1,7 +1,7 @@
-const button = document.getElementById('myButton');
+const button = document.getElementById('Start Now');
 
 button.addEventListener('click', () => {
-  alert('laurum ipsum');
+  window.location.href = ""
 });
 
 
