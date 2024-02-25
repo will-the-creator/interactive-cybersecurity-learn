@@ -8,8 +8,12 @@ body {
     background-color: #1c1919;
     padding: 20px;
     color: aqua;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:"Neumatic Gothic";
+    font-weight: 500;
+    font-style:normal ;
   }
+
+  .header-title {}
 
   nav ul {
     list-style: none;
