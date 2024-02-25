@@ -31,7 +31,16 @@ body {
   main {
     padding: 20px;
   }
+
+  @keyframes slide {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
   
+  .sliding-text {
+    animation: slide 5s infinite ease-in-out backwards;
+  }  
+
   section {
     margin-bottom: 20px;
   }
