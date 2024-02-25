@@ -5,8 +5,10 @@ body {
   }
   
   header {
-    background-color: #eee;
+    background-color: #1c1919;
     padding: 20px;
+    font-family: "Nubolts", sans-serif ;
+    color: aqua;
   }
   
   nav ul {
@@ -34,7 +36,7 @@ body {
   
   .button {
     display: inline-block;
-    padding: 7.5px 15px;
+    padding: 7px 14px;
     border: none;
     background-color: #39ff14;
     color: white;
@@ -46,4 +48,10 @@ body {
   }
   
   
-  
+  @font-face {
+    font-family: "Nubolts";
+    src: url("Nubolts.woff2") format("woff2"),
+         url("Nubolts.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
