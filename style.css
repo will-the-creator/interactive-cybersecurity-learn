@@ -7,10 +7,10 @@ body {
   header {
     background-color: #1c1919;
     padding: 20px;
-    font-family: "Nubolts", sans-serif ;
     color: aqua;
+    font-family: "Nubolts", sans-serif;
   }
-  
+
   nav ul {
     list-style: none;
     padding: 0;
