@@ -13,7 +13,9 @@ body {
     font-style:normal ;
   }
 
-  .header-title {}
+  .header-title {
+    color: beige;
+  }
 
   nav ul {
     list-style: none;
