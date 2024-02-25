@@ -8,7 +8,7 @@ body {
     background-color: #1c1919;
     padding: 20px;
     color: aqua;
-    font-family: "Nubolts", sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
 
   nav ul {
@@ -49,9 +49,9 @@ body {
   
   
   @font-face {
-    font-family: "Nubolts";
-    src: url("Nubolts.woff2") format("woff2"),
-         url("Nubolts.woff") format("woff");
+    font-family: "Neumatic Gothic";
+    src: url("fonts.woff2") format("woff2"),
+         url("fonts.woff") format("woff");
     font-weight: normal;
     font-style: normal;
   }
